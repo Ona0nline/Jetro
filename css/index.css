@@ -1,0 +1,22 @@
+body{
+  background-image: url('../images/Jet.png');
+  background-size: cover;
+}
+
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900 */
+
+.handjet-normal {
+  font-family: "Handjet", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-variation-settings:
+    "ELGR" 1,
+    "ELSH" 2;
+}
+
+h1{
+  color:white !important;
+  font-size: 50px;
+}
